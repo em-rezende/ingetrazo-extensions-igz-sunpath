@@ -7,7 +7,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/em-rezende/Ingetrazo-igz-navcube"
 
 download = "https://github.com/em-rezende/Ingetrazo-igz-navcube/releases/download/v1.0.0/igz_navcube-v1.0.0.zip"
-sha256 = "8269799f6cd9bf341ad640b0d11c7ae10c4218a9240b312b5dac9471472b572b"
+sha256 = "06d9f74a596d2029f8b1dc3a3347d770ecb3484d72667481e661ee13b7f6cbe9"
 
 ingetrazo = "0.6.2"
 tags = ["drawing", "productivity"]
