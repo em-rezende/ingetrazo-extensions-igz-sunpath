@@ -1,0 +1,24 @@
+id = "igz_navcube"
+version = "1.0.0"
+author = "Ezequiel M. Rezende"
+author_url = "https://github.com/em-rezende"
+
+license = "GPL-3.0-or-later"
+repository = "https://github.com/em-rezende/Ingetrazo-igz-navcube"
+
+download = "https://github.com/em-rezende/Ingetrazo-igz-navcube/releases/download/v1.0.0/igz_navcube-v1.0.0.zip"
+sha256 = "800b0c289fe7e9e8e1580cb590dffa3569d06b351952e46fce6666dc518adc7a"
+
+ingetrazo = "0.6.2"
+tags = ["drawing", "productivity"]
+screenshot = "igz_navcube.png"
+
+[name]
+es = "NavCube · Cubo de navegación"
+en = "NavCube · Navigation cube"
+pt = "NavCube · Cubo de navegação"
+
+[summary]
+es = "Cubo de navegación 3D interactivo sobre el visor: pulsa caras, aristas o esquinas para encuadrar vistas, arrastra la brújula para girar en Z, flechas de órbita, vista inicial y ajustes en vivo."
+en = "Interactive CAD-style navigation cube over the viewport: click faces, edges or corners to snap views, drag the compass to yaw, orbit arrows, Home view and a live settings dialog."
+pt = "Cubo de navegação 3D interativo sobre a viewport: clique em faces, arestas ou vértices para enquadrar vistas, arraste o compasso para girar em Z, setas de órbita, vista inicial e ajustes ao vivo."
